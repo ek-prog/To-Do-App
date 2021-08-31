@@ -1,0 +1,9 @@
+.todo__app{
+    display: flex;
+    background-color: #FAF8F8;
+    color: #000;
+}
+.todo__tasks{
+    margin: 0 auto;
+
+}
